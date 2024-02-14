@@ -1,0 +1,9 @@
+DELETE http://localhost:3000/notas/3
+//Content-Type: application/json
+
+
+//{
+//    "id": "7",
+//    "titulo": "Nota 7" ,
+//    "contenido": "Contenido de la nota 7"
+//}
